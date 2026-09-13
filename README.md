@@ -1,14 +1,13 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** Santiago Burgos
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** santiagoburgos66757-lgtm
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+La programación web es un campo muy amplio de la programación y abarca temas bastante interesantes asi como tambien fomenta la imaginación, el diseño y el uso de recursos que ayudan a abrirnos espacio en tematicas de aprendizaje que nos llevan a pensar mas en lo importante que es tener claro conceptos basicos de este curso y ademas como se puede implementar en la parte laboral y la gestion del desarollo en tecnologia actual de la mano de la inteligencia artificial.
 
 ## Progreso de la campaña
 
